@@ -7,7 +7,7 @@ Sanitizes string fields before saving/updating a document into a mongo collectio
 
 ```javascript
 const mongoose = require("mongoose");
-const sanitize = require("monogo-sanitize-save");
+const sanitize = require("mongo-sanitize-save");
 
 let Schema = mongoose.Schema;
 let inner_schema = new Schema({
