@@ -1,0 +1,29 @@
+{
+  "name": "mongo-sanitize-save",
+  "version": "1.0.0",
+  "description": "Sanitize string fields before saving/updating. Regex validation supported.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rtalwar26/mongo-sanitize-save.git"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "sanitize",
+    "update",
+    "regex"
+  ],
+  "author": "Rajat Talwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtalwar26/mongo-sanitize-save/issues"
+  },
+  "homepage": "https://github.com/rtalwar26/mongo-sanitize-save#readme",
+  "devDependencies": {
+    "@types/mongoose": "^5.3.19"
+  }
+}
