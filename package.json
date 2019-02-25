@@ -1,6 +1,6 @@
 {
   "name": "mongo-sanitize-save",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sanitize string fields before saving/updating. Regex validation supported.",
   "main": "dist/index.js",
   "scripts": {
